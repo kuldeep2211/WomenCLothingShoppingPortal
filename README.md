@@ -1,9 +1,9 @@
 # WomenCLothingShoppingPortal
 This project based on e-commerce technology to purchase clothing all related to women
 
-Admin Site Username and Password
-u - admin, admin1
-p - Admin@123
+Go to Admin Site
+username - admin, admin1
+password - Admin@123
 
 In this site here two order table one is orders and order details table for multiple order at a time to generate one invoice for them
 and also two tables for product return one is product return and another is product return detail
